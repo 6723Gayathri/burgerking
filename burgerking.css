@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#fbe9cb99 ;
+}
+
+.firstdiv{
+    height: 500px;
+    width: 500px;
+    /* border: solid; */
+    display: inline-block;
+}
+#insidediv{
+    height:550px;
+     width:810px ; 
+     /* border: solid; */
+     }
+     #img{
+       /* position: absolute; */
+      float: right;
+        width: 40%;
+        /* border: solid; */
+     }
+#seconddiv{
+    font-size:35px;
+    font-family:14px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: rgb(80, 35, 20);
+    height:40%;
+    width: 60%;
+    margin-left: 175px;
+    margin-top: 95px;
+    padding-left: 90px;
+    /* line-height: 1.125em; */
+    
+    
+}
+.button1,.button2{
+    height: 60px;
+    width: 61%;
+    margin-left: 250px;
+    padding:  0px 50px;
+    border-radius: 50px;
+}
+.button1{
+    border:none;
+    font-size: 25px;
+    background-color: rgb(228, 49, 49);
+    color: white;
+    margin-top: -1px;
+   
+}
+.button2{
+    background-color: transparent;
+    border:1px solid brown;
+    font-size: 25px;
+    color: brown;
+    margin-top: 20px;
+}
+.button1:hover{
+    background-color: rgb(138, 5, 5);
+}
+.button2:hover{
+    background-color: #c9c5bd99
+}
+
+
+
+#maindiv{
+  
+   margin:50px 150px ;
+    height: 1608px;
+    width: 1238px;
+    /* border: solid; */
+   
+   
+   }
+ 
+
+  
+.card{
+  
+    font-size: 18px;
+display: inline-block;
+height: 470px;
+width: 600px;
+border-radius: 20px;
+background-color: white;
+color:rgb(80, 5, 5);
+/* border: solid; */
+
+}
+img[alt~="picture"]{
+width: 100%;
+border-radius: 20px 20px 0 0;
+}
+.content{
+margin: 5px 30px 57px 12px; 
+
+
+}
+.button3
+{
+width: 105px;
+border: 1px solid rgb(80, 5, 5);
+background-color: white;
+border-radius: 27px;
+padding: 10px;
+float: right;
+margin-top: 10px;
+color: rgb(80, 35, 20);
+font-weight: bold;
+font-size: 14px;
+font-family: Flame-Regular;
+
+}
+.button3:hover
+{
+background-color: rgb(209, 204, 203);   
+}
+
+
+ #lastdiv{
+    background-color:rgba(0, 0, 0, 0.04) ;
+     height:473.5px;
+    width:100%;
+    /* border: solid;  */
+    display: flex;
+    /* margin-right: 50px; */
+  
+    
+} 
+#rightlast{
+    margin-left: 100px;
+    margin-top: 50px;
+   
+}
+
+
+#phone{
+    height: 450px;
+    width: 400px;
+    /* border: solid; */
+    margin-left: 200px;
+    padding-bottom:100px;
+    margin-bottom: 500px;
+}
+
+.savelast{
+    height: 50px;
+    width: 600px;
+    /* border: solid; */
+    font-size: 48px;
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.fontfam{
+    font-size: 48px;
+    font-weight: bolder;
+    font-family: bkhtml;
+
+}
+ @font-face {
+    font-family: bkhtml;
+    src:url("../LilitaOne-Regular.ttf");
+}
+
+.fontcolor{
+    color: rgb(80, 35, 20);
+
+}
+
+.apple
+{
+    padding-right: 45px;
+    width:250px;
+    /* border: solid;   */
+}
+#lastparaphone{
+    font-size: 15px;
+    font-family: Flame-RegularSans;
+}
+h1{
+    font-size: 80px;
+    font-weight: bolder;
+    font-family: bkhtml;
+}
+
+
+
+
+
+
+#lastbutone{
+    /* margin-top: 500px; */
+    height: 90px;
+    width: 100%;
+    border: solid;
+    color: rgb(248, 241, 231);
+    background-color: rgb(80, 35, 20);
+    /* margin-bottom: 20px;  */
+    /* position: relative; */
+    /* padding:2px; */
+    text-align: center;
+}
+#lastpara{
+     /* margin-bottom: 15px;   */
+    font-family: Flame-RegularSans;
+    font-size: 15px;
+    padding-top: 30px;
+}
+#lastanchor{
+    color: rgb(248, 241, 231);
+    font-family: Flame-RegularSans;
+    /* font-size: 12px; */
+    /* margin-left: 425px; */
+
+}
+
+
+
+table, tr, td{
+   border-collapse: collapse;
+    /* border: solid; */
+    padding: 10px;
+   
+     
+    
+    
+}
+/* td{
+    margin-right: 5px;
+} */
